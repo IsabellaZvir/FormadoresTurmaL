@@ -2,4 +2,10 @@ body{
     background-color: black;
     color: rgb(252, 200, 132);
      font-family: "Quicksand", sans-serif;
+     margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(252, 200, 132);
+    pading: 20px;
 }
