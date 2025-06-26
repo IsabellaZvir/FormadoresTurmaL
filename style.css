@@ -2,4 +2,10 @@ body{
     background-color: black;
     color: rgb(252, 200, 132);
     
+.quicksand-<uniquifier> {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 }
