@@ -11,3 +11,25 @@ header {
     font-size: 32px;
     color: rgb(252, 200, 132)
 }
+
+h1{
+    color: rgb(236, 244, 200);
+    font-family: sans-serif;
+}
+
+p{
+    color: rgb(201, 189, 25);
+}
+
+section{
+    background-color: rgb(71, 65, 9);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display:inline-flex; /* deixa as divs uma ao lado da outra*/
+    justify-content: center; /*centraliza o conteudo da div*/
+}
+
+.chamada-texto{
+    margin-right:  5%;
+    margin-left: 5%;
+}
